@@ -1,0 +1,7 @@
+[project]
+name = "pyenv"
+version = "0.1.0"
+description = "Environment for Python Prototyping"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
